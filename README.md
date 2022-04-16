@@ -1,4 +1,9 @@
 ### Hi there 👋
+im hailey and i code sometimes. when im not coding though im drawing, making music, playing games and idk socializing maybe ehehe.
+
+- 😄 Pronouns: she/her
+- 🔭 I’m currently working on packstorm, a program for a niche community.
+- ⚡ Fun fact: i am 1 in 36 people in the entire world with a very rare brain condition called rhombencephalosynapsis.
 
 <!--
 **haileylgbt/haileylgbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
